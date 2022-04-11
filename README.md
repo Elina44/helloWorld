@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Prise en main</h1>
+    <h2>Découverte</h2>
 </body>
 </html>
