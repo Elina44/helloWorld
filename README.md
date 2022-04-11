@@ -7,5 +7,6 @@
     <title>Début GITHUB</title>
 </head>
 <body>
+    <h1>Prise en main</h1>
 </body>
 </html>
